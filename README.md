@@ -5,6 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/alifa-al-farizi-1779b919b
 - https://www.xpertspedia.com/farizi
 
+
+https://github.com/alifaalfarizi
+https://gitlab.com/farizi_foodlama
 <!---
 kingfariz/kingfariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

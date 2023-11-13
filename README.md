@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Java, Kotlin, React Js, Swift, React Native, Codeigniter and Laravel.
 - 💞️ I’m looking to collaborate on any project related on Mobile Apps Programming
 - 📫 How to reach me: https://www.linkedin.com/in/alifa-al-farizi-1779b919b
-- https://www.xpertspedia.com/farizi
+- 🌐 Personal Website https://www.xpertspedia.com/farizi
 
 
 https://github.com/alifaalfarizi

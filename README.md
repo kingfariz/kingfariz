@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @kingfariz
-- 👀 I’m interested to be Software Engineer & Content creator
-- 🌱 I’m currently learning Flutter, Java, Kotlin, React Js, Swift, React Native, Codeigniter and Laravel.
-- 💞️ I’m looking to collaborate on any project related on Mobile Apps Programming
-- 📫 How to reach me: https://www.linkedin.com/in/alifa-al-farizi-1779b919b
-- 🌐 Personal Website https://www.xpertspedia.com/farizi
+- 👋 Hi, I’m @kingfariz CEO & Founder of ISEEKAIGO
+- 🌱 I’m building ISEEKAIGO
+- 💞️ I’m looking to collaborate on any project related with AI and blockchain
+- 📫 How to reach me: https://www.linkedin.com/in/alifaalfarizi/
+- 🌐 ISEEKAIGO https://www.iseekaigo.com/
 
 
+<!---
+Past git account
 https://github.com/alifaalfarizi
 https://gitlab.com/farizi_foodlama
+--->
 <!---
 kingfariz/kingfariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
